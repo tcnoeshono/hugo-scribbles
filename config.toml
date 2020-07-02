@@ -1,0 +1,6 @@
+baseURL = "http://tcnoeshono.github.io/"
+languageCode = "en-us"
+title = "Sacrifical Scribblings"
+theme = "kiera"
+#theme = "hugo-vitae"
+#
